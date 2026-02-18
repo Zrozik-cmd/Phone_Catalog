@@ -1,6 +1,6 @@
 # React Phone Catalog (React + TypeScript)
 
-Live Demo → https://zrozik-cmd.github.io/react_phone-catalog
+Live Demo → https://zrozik-cmd.github.io/Phone_Catalog/
 
 ---
 
